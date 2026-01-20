@@ -9,26 +9,12 @@
   and <strong>thoughtful user experiences</strong>.
 </p>
 
----
-
 ### 🌱 Currently focused on
 - Studying <strong>Software Engineering</strong>  
 - Enjoying <strong>front-end development</strong> for its creativity and user interaction  
 - Also exploring <strong>back-end development</strong> to understand how systems work end-to-end  
 - Continuously learning and improving as a <strong>full-stack developer</strong>
 
----
-
-<div align="center">
-  <a href="mailto:aichabnousinane@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-1f1f1f?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4" />
-  </a>
-  <a href="www.linkedin.com/in/aichabnousinane" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-</div>
-
-<hr />
 
 ## 🛠️ Tech Stack
 
@@ -40,19 +26,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma" />
 </p>
 
-<hr />
 
 ## ⚡ Coding Activity
 <br />
 <div align="center">
   <img width="640" src="https://github-readme-activity-graph.vercel.app/graph?username=aichasna&theme=transparent" />
 </div>
-
-<p align="center">
-  <em>Consistency, curiosity, and continuous improvement.</em>
-</p>
-
-<hr />
 
 ## 🐍 Contribution Flow
 <div align="center">
@@ -66,9 +45,6 @@
       src="https://raw.githubusercontent.com/aichasna/aichasna/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-
-<hr />
 
 <p align="center">
   <strong>“Code is a craft — clarity is a feature.”</strong>
