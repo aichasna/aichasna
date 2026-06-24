@@ -26,13 +26,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,git,postman,figma" />
 </p>
 
-
-## ⚡ Coding Activity
-<br />
-<div align="center">
-  <img width="640" src="https://github-readme-activity-graph.vercel.app/graph?username=aichasna&theme=transparent" />
-</div>
-
 ## 🐍 Contribution Flow
 <div align="center">
   <picture>
